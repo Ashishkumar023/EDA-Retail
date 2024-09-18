@@ -32,9 +32,4 @@ This notebook includes the following analyses:
      - Sales and profit performance across different states and regions.
      - Insights into customer buying patterns and discount strategies.
 
-## How to Use
 
-1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
